@@ -1,0 +1,254 @@
+09:12:39.432 Debug Log opened at 09:12:39.431
+09:12:39.432 Flushing previous messages
+09:12:39.425 PHONE: battery level at 65
+09:12:39.425 PHONE: battery temperature at 27
+09:12:39.428 Creating activity Main FirstTime=true
+09:12:39.428 MAIN: checking permissions
+09:12:39.429 MAIN: all permissions granted
+09:12:39.429 Finished creating activity Main
+09:12:39.429 Resuming activity Main
+09:12:39.430 MAIN: all permissions granted
+09:12:39.430 INITCODE: Initialize
+09:12:39.430 INITCODE: Running first time
+09:12:39.432 End of buffered messages
+09:12:39.433 Version Name: 2.264.4
+09:12:39.433 PHONE: Manufacturer: Essential Products
+09:12:39.433 PHONE: Model       : PH-1
+09:12:39.433 PHONE: SDK         : 28
+09:12:39.433 PHONE: Locale      : en
+09:12:39.434 PHONE: Airplane    : false
+09:12:39.436 PHONE: GPS         : true
+09:12:39.436 PHONE: WiFi        : 0
+09:12:39.437 PHONE: Bluetooth   : 1
+09:12:39.437 PHONE: Uptime      : 26:30:54
+09:12:39.438 PHONE: Free storage: 81,172,705,280
+09:12:39.438 PHONE: Free RAM    : 2,914,608
+09:12:39.439 SHARE: cleaning up sharing directory
+09:12:39.442 DB: Opening at /storage/emulated/0/_hybridassistant/hybridassistant.db
+09:12:39.456 DB: table SECLOG not exists
+09:12:39.490 COLOR: Initialize palette
+09:12:39.490 PREFS: Loading
+09:12:39.491 << BT_Macadr: 00:04:3E:9B:AF:A6
+09:12:39.491 << TextSize: 1
+09:12:39.491 << MaxTrips: 0
+09:12:39.491 << AutoClose: 0
+09:12:39.491 << IgnoreChargerOnAutoClose: 0
+09:12:39.492 << FuelDisplay: 3
+09:12:39.492 << SpeedCorrectionFactor: 1
+09:12:39.492 << AutoSpeedCorrection: 0
+09:12:39.492 << FuelChartDisplay: 0
+09:12:39.492 << PowerChartDisplay: 0
+09:12:39.493 << HighPrecisionFuelChart: 1
+09:12:39.493 << FanAssistant: 0
+09:12:39.493 << FanStartTemperature: 36
+09:12:39.493 << FanStopTemperature: 15
+09:12:39.493 << ProbeEnabled: 1
+09:12:39.494 << Brightness: 0
+09:12:39.494 << AutoEnableBluetooth: 1
+09:12:39.494 << LeaveBluetoothEnabled: 0
+09:12:39.494 << UseFahrenheit: 1
+09:12:39.495 << UseMiles: 1
+09:12:39.495 << UseGallons: 1
+09:12:39.495 << UseImperial: 1
+09:12:39.495 << DisplayTimeInMotion: 0
+09:12:39.495 << DebugOBD: 0
+09:12:39.496 << DebugState: 0
+09:12:39.496 << SkipBTCheck: 0
+09:12:39.496 << HighSpeedLogging: 1
+09:12:39.496 << ConnectionMode: BT
+09:12:39.496 << E85Correction: 0
+09:12:39.497 << Tip_BluetoothNotconnected: 1
+09:12:39.497 << CurrentLanguage: 0
+09:12:39.497 << AutoScreenshot: 1
+09:12:39.497 << Tip_FirmwareWarning: 0
+09:12:39.497 << DontSendReports: 0
+09:12:39.498 << FlashBorder: 1
+09:12:39.498 << LastVersionCode: 264
+09:12:39.499 << DisclaimerAccepted: 1
+09:12:39.499 << OdoInMiles: 0
+09:12:39.500 << AutoOdo: 1
+09:12:39.500 << PixelFilter: 1
+09:12:39.501 << GlideAssistant: 0
+09:12:39.501 << GlideAssistantMG2: 1
+09:12:39.501 << PanelAssistant: 1
+09:12:39.501 << AlternativeFuelCalc: 0
+09:12:39.502 << AutoHUD: 0
+09:12:39.502 << AutoHUDReverse: 0
+09:12:39.502 << WiFiIP: 192.168.0.10
+09:12:39.502 << WiFiPort: 35000
+09:12:39.502 << Immersive: 0
+09:12:39.503 << ScrollLeftToRight: 1
+09:12:39.509 COLOR: Loading palette
+09:12:39.513 << CarDetect: 0
+09:12:39.513 INITCODE: Setting language to en
+09:12:39.528 Finished resuming activity Main
+09:12:39.544 Pausing activity Main UserClosed=true
+09:12:39.544 Finished pausing activity Main
+09:12:39.608 Creating activity Dash FirstTime=true
+09:12:39.608 DASH: Loading layout
+09:12:39.885 DASH: Layout loaded
+09:12:39.895 Finished creating activity Dash
+09:12:39.895 Resuming activity Dash
+09:12:39.905 DASH: Running TileFactory
+09:12:39.905 DASH: Orientation: Portrait
+09:12:39.905 DASH: Width: 1312
+09:12:39.906 DASH: Height: 2272
+09:12:39.927 LAYOUT: Pnl_EVSummaryTextSized
+09:12:39.927 LAYOUT: Pnl_EVTextSized
+09:12:39.935 LAYOUT: Pnl_BrakeTextSized
+09:12:39.940 LAYOUT: Pnl_RPMTextSized
+09:12:39.941 LAYOUT: Pnl_SOCTextSized
+09:12:39.945 LAYOUT: Pnl_PwrTextSized
+09:12:39.959 LAYOUT: Pnl_HVCoolTextSized
+09:12:39.963 LAYOUT: Pnl_TempTextSized
+09:12:39.972 LAYOUT: PanelPowerChartTextSized
+09:12:39.978 LAYOUT: Pnl_temporaryTextSized
+09:12:39.979 LAYOUT: Pnl_SpeedTextSized
+09:12:39.979 LAYOUT: Panel3TextSized
+09:12:39.979 LAYOUT: Pnl_temporaryTextSized - Text size: 12
+09:12:39.979 LAYOUT: Pnl_TempTextSized - Text size: 25
+09:12:39.996 LAYOUT: Panel12VTextSized
+09:12:40.000 DASH: Resize: 85 ms
+09:12:40.000 DASH: TileFactory done
+09:12:40.007 Connection mode: Bluetooth
+09:12:40.023 BT: Paired devices list
+09:12:40.023 BT: Device: OBDLink LX
+09:12:40.031 BT: Class : 300
+09:12:40.032 DASH: Connecting to Bluetooth ODB, attempt# 1, 00:04:3E:9B:AF:A6 - OBDLink LX/MX
+09:12:40.034 Finished resuming activity Dash
+09:12:42.038 DASH: GPS fix acquired
+09:12:43.615 Serial connected successfully
+09:12:43.616 TOAST: Connected successfully
+09:12:43.677 SCANNER: service created
+09:12:43.677 SCANNER: service started
+09:12:43.708 FAN CTRL: service created
+09:12:43.708 FAN CTRL: initial controller state: OFF
+09:12:43.709 FAN CTRL: service started
+09:12:46.275 CARTYPE: Detecting car: VIN=JTDKB20U767------ Model=NHW20# 
+09:12:46.277 CARTYPE: Found car model Prius 2
+09:12:46.277 CARTYPE: m_Name=Prius 2
+09:12:46.277 CARTYPE: m_EngineDisplacement=1500
+09:12:46.277 CARTYPE: m_Cylinders=4
+09:12:46.278 CARTYPE: m_MAF=false
+09:12:46.278 CARTYPE: m_RoomTempAvailable=false
+09:12:46.278 CARTYPE: m_AmbientTempAvailable=false
+09:12:46.278 CARTYPE: m_MGTempAvailable=true
+09:12:46.278 CARTYPE: m_InverterTempAvailable=true
+09:12:46.278 CARTYPE: m_InverterLowerBound=16
+09:12:46.279 CARTYPE: m_FanAvailable=true
+09:12:46.279 CARTYPE: m_FanStatusAvailable=true
+09:12:46.279 CARTYPE: m_CheckAvailable=true
+09:12:46.279 CARTYPE: m_HSIAvailable=false
+09:12:46.279 CARTYPE: m_Warmup=true
+09:12:46.280 CARTYPE: m_AcceleratorAvailable=true
+09:12:46.280 CARTYPE: m_NoData=false
+09:12:46.280 CARTYPE: m_MGR=false
+09:12:46.280 CARTYPE: m_PSD=1
+09:12:46.280 CARTYPE: m_BrakeSpeed=15
+09:12:46.280 CARTYPE: m_EngineStates=1
+09:12:46.281 CARTYPE: m_ScannerSequencer=1
+09:12:46.281 CARTYPE: m_numBlocks=14
+09:12:46.281 CARTYPE: m_BatteryTemperatureNumberOfSensors=3
+09:12:46.281 CARTYPE: m_ICEPowerAvailable=true
+09:12:46.281 CARTYPE: m_ICELoadUseful=false
+09:12:46.282 CARTYPE: m_PlugIn=false
+09:12:46.282 CARTYPE: m_HVType=0
+09:12:46.282 CARTYPE: m_ICEType=0
+09:12:46.283 CARTYPE: m_ODOAvailable=false
+09:12:46.283 CARTYPE: m_MG2PowerAvailable=true
+09:12:46.283 CARTYPE: m_BrakeAvailable=true
+09:12:46.283 CARTYPE: m_GearboxAvailable=false
+09:12:46.283 CARTYPE: m_PowerTableICEPower=57
+09:12:46.283 CARTYPE: m_PowerTableBattPower=23
+09:12:46.284 HSD: Going to S0 - Power on
+09:12:46.284 SCANNER: Interface: ELM327 v1.3a
+09:12:46.284 SCANNER: Firmware: STN1155 v4.3.0
+09:12:46.368 CAR: First odometer value: 3110
+09:12:46.603 SCANNER: NO DATA received on 7C0 2129 1
+09:12:46.604 HSD: Going to Stable S0 - Coolant over 40C
+09:12:46.968 HSD: Going to S4 - Coolant over 65C
+09:12:57.301 CONTEXT: Transition from Undefined to Glide
+09:12:57.441 LAYOUT: PanelGlideChartLoaded
+09:12:57.441 LAYOUT: PanelGlideChartLoadedTiled
+09:13:40.211 STAT: Trip Distance: 0.690 - Trip Fuel: 420
+09:13:44.502 CAR: Odometer increased: 3111 - estimate: 0.798
+09:13:47.461 CONTEXT: Transition from Glide to Highway
+09:14:20.658 CAR: Odometer increased: 3112 - estimate: 1.017
+09:14:20.659 CAR: odometer appears to be in kilometers; option is already set
+09:14:35.292 DASH: GPS fix lost
+09:14:40.343 STAT: Trip Distance: 2.318 - Trip Fuel: 932
+09:14:52.372 DASH: GPS fix acquired
+09:15:00.597 CAR: Odometer increased: 3113 - estimate: 1.012
+09:15:38.915 CAR: Odometer increased: 3114 - estimate: 1.011
+09:15:40.473 STAT: Trip Distance: 3.842 - Trip Fuel: 1394
+09:15:54.514 DASH: GPS fix lost
+09:15:57.518 DASH: GPS fix acquired
+09:16:19.378 CAR: Odometer increased: 3115 - estimate: 1.012
+09:16:34.219 PHONE: battery level at 64
+09:16:34.220 PHONE: battery temperature at 28
+09:16:40.598 STAT: Trip Distance: 5.390 - Trip Fuel: 1926
+09:16:56.226 CAR: Odometer increased: 3116 - estimate: 1.017
+09:17:33.324 CAR: Odometer increased: 3117 - estimate: 1.018
+09:17:40.731 STAT: Trip Distance: 7.002 - Trip Fuel: 2362
+09:18:12.783 CAR: Odometer increased: 3118 - estimate: 1.000
+09:18:40.929 STAT: Trip Distance: 8.487 - Trip Fuel: 2753
+09:18:53.882 CAR: Odometer increased: 3119 - estimate: 1.013
+09:19:29.460 CONTEXT: Transition from Highway to Glide
+09:19:38.835 CAR: Odometer increased: 3120 - estimate: 1.030
+09:19:40.992 STAT: Trip Distance: 9.851 - Trip Fuel: 3160
+09:19:54.566 CONTEXT: Transition from Glide to Highway
+09:20:19.026 CAR: Odometer increased: 3121 - estimate: 1.005
+09:20:41.242 STAT: Trip Distance: 11.358 - Trip Fuel: 3697
+09:20:58.624 CAR: Odometer increased: 3122 - estimate: 1.017
+09:21:07.672 PHONE: battery level at 63
+09:21:07.672 PHONE: battery temperature at 29
+09:21:39.133 CAR: Odometer increased: 3123 - estimate: 1.012
+09:21:41.370 STAT: Trip Distance: 12.845 - Trip Fuel: 4002
+09:21:50.817 CONTEXT: Transition from Highway to Glide
+09:22:41.471 STAT: Trip Distance: 13.482 - Trip Fuel: 4255
+09:23:02.879 CAR: Odometer increased: 3124 - estimate: 1.026
+09:23:41.641 STAT: Trip Distance: 14.296 - Trip Fuel: 4255
+09:24:22.508 CAR: Odometer increased: 3125 - estimate: 1.030
+09:24:41.710 STAT: Trip Distance: 15.045 - Trip Fuel: 4504
+09:25:36.767 PHONE: battery level at 62
+09:25:36.768 PHONE: battery temperature at 30
+09:25:41.863 STAT: Trip Distance: 15.638 - Trip Fuel: 4697
+09:26:06.406 CONTEXT: Transition from Glide to Park
+09:26:20.443 CONTEXT: Transition from Park to Glide
+09:26:29.690 CAR: Odometer increased: 3126 - estimate: 1.040
+09:26:41.950 STAT: Trip Distance: 15.833 - Trip Fuel: 4697
+09:26:45.239 DASH: User selected poweroff
+09:26:46.069 DASH: User quit
+09:26:46.122 LAYOUT: PanelEndOfTripLoaded
+09:26:46.123 LAYOUT: PanelEndOfTripLoadedTiled
+09:26:46.744 TOAST: Screen Capture Done
+09:26:46.757 Pausing activity Dash UserClosed=true
+09:26:46.759 STAT: Trip Distance: 15.833 - Trip Fuel: 4697
+09:26:46.759 STAT: Connection stats:
+09:26:46.759 STAT: Total Frames       : 19192
+09:26:46.759 STAT: Corrupted Frames   : 0
+09:26:46.760 STAT: Alien Frames       : 0
+09:26:46.760 STAT: NoData Frames      : 1597
+09:26:46.760 STAT: Avg cycle time     : 0.53
+09:26:46.760 STAT: Std dev            : 0.27
+09:26:46.760 STAT: Avg sequence lenght: 12.00
+09:26:46.760 STAT: Std dev            : 0.00
+09:26:46.760 STAT: PIDs overflows     : 0
+09:26:46.760 STAT: Avg PID ms delay   : 0
+09:26:46.760 STAT: Std dev            : 0
+09:26:46.760 STAT: Disconnections     : 0
+09:26:46.760 STAT: Avg Refresh        : 20.36
+09:26:46.760 STAT: Std dev            : 5.10
+09:26:46.761 STAT: Avg odo error      : 0.017
+09:26:46.761 STAT: Std dev            : 0.010
+09:26:46.761 STAT: Min text size      : 13
+09:26:46.761 STAT: Draw calls         : 11961
+09:26:46.761 STAT: Avoided Draw calls : 81765
+09:26:46.761 CAR: Writing end of trip data
+09:26:46.776 PREFS: Saving
+09:26:46.782 COLOR: Saving palette
+09:26:46.784 DB: Closing
+09:26:46.800 Closing logs
+09:26:46.804 PHONE: Free storage: 81,171,902,464
+09:26:46.804 PHONE: Free RAM    : 6,140,592
+09:26:46.804 Log closed

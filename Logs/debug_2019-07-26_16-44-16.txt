@@ -1,0 +1,387 @@
+16:44:16.570 Debug Log opened at 16:44:16.568
+16:44:16.570 Flushing previous messages
+16:44:16.558 PHONE: battery level at 64
+16:44:16.559 PHONE: battery temperature at 36
+16:44:16.560 Creating activity Main FirstTime=true
+16:44:16.560 MAIN: checking permissions
+16:44:16.566 MAIN: all permissions granted
+16:44:16.567 Finished creating activity Main
+16:44:16.567 Resuming activity Main
+16:44:16.568 MAIN: all permissions granted
+16:44:16.568 INITCODE: Initialize
+16:44:16.568 INITCODE: Running first time
+16:44:16.570 End of buffered messages
+16:44:16.571 Version Name: 2.264.4
+16:44:16.572 PHONE: Manufacturer: Essential Products
+16:44:16.572 PHONE: Model       : PH-1
+16:44:16.572 PHONE: SDK         : 28
+16:44:16.572 PHONE: Locale      : en
+16:44:16.573 PHONE: Airplane    : false
+16:44:16.575 PHONE: GPS         : true
+16:44:16.576 PHONE: WiFi        : 1
+16:44:16.577 PHONE: Bluetooth   : 1
+16:44:16.578 PHONE: Uptime      : 49:42:00
+16:44:16.580 PHONE: Free storage: 81,144,422,400
+16:44:16.580 PHONE: Free RAM    : 2,555,592
+16:44:16.581 SHARE: cleaning up sharing directory
+16:44:16.585 DB: Opening at /storage/emulated/0/_hybridassistant/hybridassistant.db
+16:44:16.600 DB: table SECLOG not exists
+16:44:16.641 COLOR: Initialize palette
+16:44:16.641 PREFS: Loading
+16:44:16.642 << BT_Macadr: 00:04:3E:9B:AF:A6
+16:44:16.642 << TextSize: 1
+16:44:16.642 << MaxTrips: 0
+16:44:16.642 << AutoClose: 0
+16:44:16.642 << IgnoreChargerOnAutoClose: 0
+16:44:16.643 << FuelDisplay: 3
+16:44:16.643 << SpeedCorrectionFactor: 1
+16:44:16.643 << AutoSpeedCorrection: 0
+16:44:16.643 << FuelChartDisplay: 0
+16:44:16.644 << PowerChartDisplay: 0
+16:44:16.644 << HighPrecisionFuelChart: 1
+16:44:16.644 << FanAssistant: 0
+16:44:16.644 << FanStartTemperature: 36
+16:44:16.644 << FanStopTemperature: 15
+16:44:16.645 << ProbeEnabled: 1
+16:44:16.645 << Brightness: 0
+16:44:16.645 << AutoEnableBluetooth: 1
+16:44:16.645 << LeaveBluetoothEnabled: 0
+16:44:16.645 << UseFahrenheit: 1
+16:44:16.646 << UseMiles: 1
+16:44:16.646 << UseGallons: 1
+16:44:16.646 << UseImperial: 1
+16:44:16.646 << DisplayTimeInMotion: 0
+16:44:16.647 << DebugOBD: 0
+16:44:16.647 << DebugState: 0
+16:44:16.647 << SkipBTCheck: 0
+16:44:16.647 << HighSpeedLogging: 1
+16:44:16.648 << ConnectionMode: BT
+16:44:16.648 << E85Correction: 0
+16:44:16.648 << Tip_BluetoothNotconnected: 1
+16:44:16.648 << CurrentLanguage: 0
+16:44:16.648 << AutoScreenshot: 1
+16:44:16.649 << Tip_FirmwareWarning: 0
+16:44:16.649 << DontSendReports: 0
+16:44:16.649 << FlashBorder: 1
+16:44:16.650 << LastVersionCode: 264
+16:44:16.650 << DisclaimerAccepted: 1
+16:44:16.651 << OdoInMiles: 0
+16:44:16.651 << AutoOdo: 1
+16:44:16.652 << PixelFilter: 1
+16:44:16.652 << GlideAssistant: 0
+16:44:16.652 << GlideAssistantMG2: 1
+16:44:16.653 << PanelAssistant: 1
+16:44:16.653 << AlternativeFuelCalc: 0
+16:44:16.653 << AutoHUD: 0
+16:44:16.653 << AutoHUDReverse: 0
+16:44:16.653 << WiFiIP: 192.168.0.10
+16:44:16.654 << WiFiPort: 35000
+16:44:16.654 << Immersive: 0
+16:44:16.654 << ScrollLeftToRight: 1
+16:44:16.663 COLOR: Loading palette
+16:44:16.667 << CarDetect: 0
+16:44:16.667 INITCODE: Setting language to en
+16:44:16.679 Finished resuming activity Main
+16:44:16.694 Pausing activity Main UserClosed=true
+16:44:16.695 Finished pausing activity Main
+16:44:16.746 Creating activity Dash FirstTime=true
+16:44:16.746 DASH: Loading layout
+16:44:17.020 DASH: Layout loaded
+16:44:17.030 Finished creating activity Dash
+16:44:17.030 Resuming activity Dash
+16:44:17.039 DASH: Running TileFactory
+16:44:17.039 DASH: Orientation: Portrait
+16:44:17.039 DASH: Width: 1312
+16:44:17.039 DASH: Height: 2272
+16:44:17.059 LAYOUT: Pnl_EVSummaryTextSized
+16:44:17.060 LAYOUT: Pnl_EVTextSized
+16:44:17.067 LAYOUT: Pnl_BrakeTextSized
+16:44:17.073 LAYOUT: Pnl_RPMTextSized
+16:44:17.074 LAYOUT: Pnl_SOCTextSized
+16:44:17.078 LAYOUT: Pnl_PwrTextSized
+16:44:17.093 LAYOUT: Pnl_HVCoolTextSized
+16:44:17.097 LAYOUT: Pnl_TempTextSized
+16:44:17.107 LAYOUT: PanelPowerChartTextSized
+16:44:17.113 LAYOUT: Pnl_temporaryTextSized
+16:44:17.114 LAYOUT: Pnl_SpeedTextSized
+16:44:17.114 LAYOUT: Panel3TextSized
+16:44:17.114 LAYOUT: Pnl_temporaryTextSized - Text size: 12
+16:44:17.114 LAYOUT: Pnl_TempTextSized - Text size: 25
+16:44:17.131 LAYOUT: Panel12VTextSized
+16:44:17.135 DASH: Resize: 87 ms
+16:44:17.136 DASH: TileFactory done
+16:44:17.142 Connection mode: Bluetooth
+16:44:17.157 BT: Paired devices list
+16:44:17.157 BT: Device: OBDLink LX
+16:44:17.160 BT: Class : 300
+16:44:17.160 DASH: Connecting to Bluetooth ODB, attempt# 1, 00:04:3E:9B:AF:A6 - OBDLink LX/MX
+16:44:17.161 Finished resuming activity Dash
+16:44:19.168 DASH: GPS fix acquired
+16:44:19.691 Serial connected successfully
+16:44:19.691 TOAST: Connected successfully
+16:44:19.780 SCANNER: service created
+16:44:19.781 SCANNER: service started
+16:44:19.799 FAN CTRL: service created
+16:44:19.799 FAN CTRL: initial controller state: OFF
+16:44:19.799 FAN CTRL: service started
+16:44:20.172 DASH: GPS fix lost
+16:44:23.173 DASH: GPS fix acquired
+16:44:23.384 CARTYPE: Detecting car: VIN=JTDKB20U767------ Model=NHW20# 
+16:44:23.388 CARTYPE: Found car model Prius 2
+16:44:23.390 CARTYPE: m_Name=Prius 2
+16:44:23.390 CARTYPE: m_EngineDisplacement=1500
+16:44:23.391 CARTYPE: m_Cylinders=4
+16:44:23.392 CARTYPE: m_MAF=false
+16:44:23.392 CARTYPE: m_RoomTempAvailable=false
+16:44:23.393 CARTYPE: m_AmbientTempAvailable=false
+16:44:23.394 CARTYPE: m_MGTempAvailable=true
+16:44:23.394 CARTYPE: m_InverterTempAvailable=true
+16:44:23.395 CARTYPE: m_InverterLowerBound=16
+16:44:23.396 CARTYPE: m_FanAvailable=true
+16:44:23.397 CARTYPE: m_FanStatusAvailable=true
+16:44:23.397 CARTYPE: m_CheckAvailable=true
+16:44:23.398 CARTYPE: m_HSIAvailable=false
+16:44:23.398 CARTYPE: m_Warmup=true
+16:44:23.399 CARTYPE: m_AcceleratorAvailable=true
+16:44:23.399 CARTYPE: m_NoData=false
+16:44:23.400 CARTYPE: m_MGR=false
+16:44:23.401 CARTYPE: m_PSD=1
+16:44:23.401 CARTYPE: m_BrakeSpeed=15
+16:44:23.402 CARTYPE: m_EngineStates=1
+16:44:23.402 CARTYPE: m_ScannerSequencer=1
+16:44:23.403 CARTYPE: m_numBlocks=14
+16:44:23.404 CARTYPE: m_BatteryTemperatureNumberOfSensors=3
+16:44:23.404 CARTYPE: m_ICEPowerAvailable=true
+16:44:23.405 CARTYPE: m_ICELoadUseful=false
+16:44:23.405 CARTYPE: m_PlugIn=false
+16:44:23.406 CARTYPE: m_HVType=0
+16:44:23.406 CARTYPE: m_ICEType=0
+16:44:23.407 CARTYPE: m_ODOAvailable=false
+16:44:23.407 CARTYPE: m_MG2PowerAvailable=true
+16:44:23.408 CARTYPE: m_BrakeAvailable=true
+16:44:23.409 CARTYPE: m_GearboxAvailable=false
+16:44:23.410 CARTYPE: m_PowerTableICEPower=57
+16:44:23.410 CARTYPE: m_PowerTableBattPower=23
+16:44:23.411 HSD: Going to S0 - Power on
+16:44:23.413 SCANNER: Interface: ELM327 v1.3a
+16:44:23.413 SCANNER: Firmware: STN1155 v4.3.0
+16:44:23.508 CAR: First odometer value: 4104
+16:44:23.784 SCANNER: NO DATA received on 7C0 2129 1
+16:44:23.786 HSD: Going to Stable S0 - Coolant over 40C
+16:44:24.153 HSD: Going to S4 - Coolant over 65C
+16:44:52.474 CONTEXT: Transition from Undefined to Glide
+16:44:52.622 LAYOUT: PanelGlideChartLoaded
+16:44:52.622 LAYOUT: PanelGlideChartLoadedTiled
+16:45:17.393 STAT: Trip Distance: 0.283 - Trip Fuel: 277
+16:45:22.532 CONTEXT: Transition from Glide to Park
+16:45:35.582 CONTEXT: Transition from Park to Glide
+16:45:53.654 CAR: Odometer increased: 4105 - estimate: 0.536
+16:46:17.603 STAT: Trip Distance: 0.744 - Trip Fuel: 620
+16:47:05.766 CONTEXT: Transition from Glide to Highway
+16:47:07.468 CAR: Odometer increased: 4106 - estimate: 1.023
+16:47:07.469 CAR: odometer appears to be in kilometers; option is already set
+16:47:17.730 STAT: Trip Distance: 1.814 - Trip Fuel: 1198
+16:47:36.804 CONTEXT: Transition from Highway to Glide
+16:47:57.751 PHONE: battery level at 63
+16:47:57.751 PHONE: battery temperature at 37
+16:48:04.687 CAR: Odometer increased: 4107 - estimate: 1.031
+16:48:17.801 STAT: Trip Distance: 2.786 - Trip Fuel: 1624
+16:48:54.271 CAR: Odometer increased: 4108 - estimate: 0.994
+16:49:17.916 STAT: Trip Distance: 3.888 - Trip Fuel: 1974
+16:49:29.008 CONTEXT: Transition from Glide to Park
+16:49:42.028 CONTEXT: Transition from Park to Glide
+16:50:18.032 STAT: Trip Distance: 4.410 - Trip Fuel: 2336
+16:50:25.496 CAR: Odometer increased: 4109 - estimate: 1.035
+16:50:34.110 CONTEXT: Transition from Glide to Highway
+16:51:05.651 CAR: Odometer increased: 4110 - estimate: 1.013
+16:51:18.163 STAT: Trip Distance: 5.840 - Trip Fuel: 2977
+16:51:44.774 CAR: Odometer increased: 4111 - estimate: 1.012
+16:51:48.129 PHONE: battery level at 62
+16:52:18.303 STAT: Trip Distance: 7.291 - Trip Fuel: 3399
+16:52:28.645 CAR: Odometer increased: 4112 - estimate: 1.016
+16:53:07.252 CAR: Odometer increased: 4113 - estimate: 1.006
+16:53:18.469 STAT: Trip Distance: 8.856 - Trip Fuel: 3949
+16:53:45.339 CAR: Odometer increased: 4114 - estimate: 1.015
+16:54:18.610 STAT: Trip Distance: 10.340 - Trip Fuel: 4418
+16:54:28.114 CAR: Odometer increased: 4115 - estimate: 1.013
+16:54:32.703 CONTEXT: Transition from Highway to Glide
+16:54:53.737 CONTEXT: Transition from Glide to Highway
+16:55:13.367 CAR: Odometer increased: 4116 - estimate: 1.015
+16:55:18.784 STAT: Trip Distance: 11.642 - Trip Fuel: 4832
+16:55:34.867 DASH: GPS fix lost
+16:55:35.866 DASH: GPS fix acquired
+16:55:52.154 CAR: Odometer increased: 4117 - estimate: 1.014
+16:55:57.625 PHONE: battery level at 61
+16:56:18.932 STAT: Trip Distance: 13.262 - Trip Fuel: 5399
+16:56:30.126 CAR: Odometer increased: 4118 - estimate: 1.018
+16:57:07.228 CAR: Odometer increased: 4119 - estimate: 1.010
+16:57:19.112 STAT: Trip Distance: 14.860 - Trip Fuel: 5973
+16:57:44.174 CAR: Odometer increased: 4120 - estimate: 1.011
+16:58:19.315 STAT: Trip Distance: 16.500 - Trip Fuel: 6276
+16:58:21.307 CAR: Odometer increased: 4121 - estimate: 1.015
+16:59:01.138 PHONE: battery level at 60
+16:59:01.796 CAR: Odometer increased: 4122 - estimate: 1.008
+16:59:17.539 CONTEXT: Transition from Highway to Glide
+16:59:19.428 STAT: Trip Distance: 17.892 - Trip Fuel: 6553
+16:59:20.431 DASH: GPS fix lost
+16:59:24.432 DASH: GPS fix acquired
+17:00:19.606 STAT: Trip Distance: 18.246 - Trip Fuel: 6553
+17:00:21.630 CONTEXT: Transition from Glide to Park
+17:00:34.669 CONTEXT: Transition from Park to Glide
+17:01:19.764 STAT: Trip Distance: 18.466 - Trip Fuel: 6553
+17:01:51.649 CAR: Odometer increased: 4123 - estimate: 1.080
+17:02:19.923 STAT: Trip Distance: 18.642 - Trip Fuel: 6581
+17:03:20.105 STAT: Trip Distance: 19.073 - Trip Fuel: 6791
+17:03:45.781 PHONE: battery level at 59
+17:04:01.946 CAR: Odometer increased: 4124 - estimate: 1.034
+17:04:20.237 STAT: Trip Distance: 19.738 - Trip Fuel: 7034
+17:05:10.519 CONTEXT: Transition from Glide to Park
+17:05:20.487 STAT: Trip Distance: 20.231 - Trip Fuel: 7125
+17:05:22.525 CONTEXT: Transition from Park to Glide
+17:05:51.295 CAR: Odometer increased: 4125 - estimate: 1.032
+17:06:20.633 STAT: Trip Distance: 20.886 - Trip Fuel: 7375
+17:06:40.764 LAYOUT: PanelPSDLoaded
+17:06:40.764 LAYOUT: PanelPSDLoadedTiled
+17:06:40.776 LAYOUT: PanelPSDLoadedTiledTextSized
+17:07:15.767 DASH: GPS fix lost
+17:07:18.766 DASH: GPS fix acquired
+17:07:20.769 STAT: Trip Distance: 21.465 - Trip Fuel: 7618
+17:07:27.490 CAR: Odometer increased: 4126 - estimate: 1.021
+17:07:47.768 PHONE: battery level at 58
+17:07:47.769 PHONE: battery temperature at 36
+17:08:21.004 STAT: Trip Distance: 22.430 - Trip Fuel: 8003
+17:08:28.820 CAR: Odometer increased: 4127 - estimate: 1.036
+17:08:55.078 DASH: GPS fix lost
+17:09:00.079 DASH: GPS fix acquired
+17:09:21.167 STAT: Trip Distance: 23.213 - Trip Fuel: 8136
+17:09:55.078 CAR: Odometer increased: 4128 - estimate: 1.004
+17:10:21.302 STAT: Trip Distance: 24.074 - Trip Fuel: 8563
+17:10:43.517 CAR: Odometer increased: 4129 - estimate: 1.017
+17:11:21.576 STAT: Trip Distance: 25.352 - Trip Fuel: 8909
+17:11:23.623 CONTEXT: Transition from Glide to Highway
+17:11:29.456 CAR: Odometer increased: 4130 - estimate: 1.006
+17:11:59.978 PHONE: battery level at 57
+17:11:59.979 PHONE: battery temperature at 35
+17:12:09.346 CAR: Odometer increased: 4131 - estimate: 1.013
+17:12:21.811 STAT: Trip Distance: 26.890 - Trip Fuel: 9538
+17:12:46.381 CAR: Odometer increased: 4132 - estimate: 1.030
+17:13:21.704 CAR: Odometer increased: 4133 - estimate: 1.000
+17:13:22.080 STAT: Trip Distance: 28.548 - Trip Fuel: 10212
+17:13:55.546 CAR: Odometer increased: 4134 - estimate: 1.012
+17:14:22.197 STAT: Trip Distance: 30.400 - Trip Fuel: 10783
+17:14:26.608 CAR: Odometer increased: 4135 - estimate: 1.005
+17:14:59.960 CAR: Odometer increased: 4136 - estimate: 1.021
+17:15:22.363 STAT: Trip Distance: 32.175 - Trip Fuel: 11701
+17:15:34.470 CAR: Odometer increased: 4137 - estimate: 1.037
+17:16:06.594 CAR: Odometer increased: 4138 - estimate: 0.963
+17:16:10.580 PHONE: battery level at 56
+17:16:22.462 STAT: Trip Distance: 34.026 - Trip Fuel: 12481
+17:16:41.167 CAR: Odometer increased: 4139 - estimate: 1.039
+17:17:19.633 CONTEXT: Transition from Highway to Glide
+17:17:22.588 STAT: Trip Distance: 35.541 - Trip Fuel: 12874
+17:17:22.913 CAR: Odometer increased: 4140 - estimate: 1.012
+17:18:22.791 STAT: Trip Distance: 36.554 - Trip Fuel: 13171
+17:18:22.891 CAR: Odometer increased: 4141 - estimate: 1.018
+17:18:44.871 CONTEXT: Transition from Glide to Park
+17:19:22.916 STAT: Trip Distance: 36.632 - Trip Fuel: 13171
+17:20:18.281 PHONE: battery level at 55
+17:20:23.043 STAT: Trip Distance: 36.645 - Trip Fuel: 13183
+17:20:26.078 CONTEXT: Transition from Park to Glide
+17:21:23.145 STAT: Trip Distance: 37.505 - Trip Fuel: 13651
+17:21:29.494 CAR: Odometer increased: 4142 - estimate: 1.034
+17:22:21.067 CAR: Odometer increased: 4143 - estimate: 1.009
+17:22:23.420 STAT: Trip Distance: 38.587 - Trip Fuel: 14301
+17:23:21.130 CAR: Odometer increased: 4144 - estimate: 1.019
+17:23:23.531 STAT: Trip Distance: 39.587 - Trip Fuel: 14824
+17:23:43.632 CONTEXT: Transition from Glide to Highway
+17:23:46.450 PHONE: battery temperature at 36
+17:24:04.897 CAR: Odometer increased: 4145 - estimate: 1.005
+17:24:23.604 STAT: Trip Distance: 40.984 - Trip Fuel: 15371
+17:24:48.415 CAR: Odometer increased: 4146 - estimate: 1.021
+17:25:05.783 CONTEXT: Transition from Highway to Glide
+17:25:23.701 STAT: Trip Distance: 42.015 - Trip Fuel: 15713
+17:25:50.365 CAR: Odometer increased: 4147 - estimate: 1.023
+17:26:14.961 CONTEXT: Transition from Glide to Park
+17:26:23.916 STAT: Trip Distance: 42.708 - Trip Fuel: 16011
+17:26:39.990 CONTEXT: Transition from Park to Glide
+17:27:22.548 CAR: Odometer increased: 4148 - estimate: 1.034
+17:27:24.045 STAT: Trip Distance: 43.564 - Trip Fuel: 16779
+17:27:37.164 CONTEXT: Transition from Glide to Highway
+17:27:55.235 CONTEXT: Transition from Highway to Glide
+17:27:58.751 PHONE: battery level at 53
+17:28:11.027 CAR: Odometer increased: 4149 - estimate: 1.027
+17:28:24.271 STAT: Trip Distance: 44.809 - Trip Fuel: 17327
+17:28:35.320 CONTEXT: Transition from Glide to Highway
+17:28:55.502 CAR: Odometer increased: 4150 - estimate: 0.991
+17:29:24.436 STAT: Trip Distance: 46.203 - Trip Fuel: 17986
+17:29:37.685 CAR: Odometer increased: 4151 - estimate: 1.022
+17:30:19.291 CAR: Odometer increased: 4152 - estimate: 1.010
+17:30:24.519 STAT: Trip Distance: 47.668 - Trip Fuel: 18641
+17:30:59.761 CAR: Odometer increased: 4153 - estimate: 1.016
+17:31:22.727 CONTEXT: Transition from Highway to Glide
+17:31:24.648 STAT: Trip Distance: 49.100 - Trip Fuel: 19201
+17:31:46.561 CAR: Odometer increased: 4154 - estimate: 1.014
+17:32:24.862 STAT: Trip Distance: 50.099 - Trip Fuel: 19379
+17:33:05.434 CAR: Odometer increased: 4155 - estimate: 1.015
+17:33:25.030 STAT: Trip Distance: 50.803 - Trip Fuel: 19606
+17:34:25.178 STAT: Trip Distance: 51.364 - Trip Fuel: 19846
+17:34:55.453 CAR: Odometer increased: 4156 - estimate: 1.037
+17:35:25.310 STAT: Trip Distance: 51.788 - Trip Fuel: 19986
+17:36:25.465 STAT: Trip Distance: 52.533 - Trip Fuel: 20541
+17:36:26.809 CAR: Odometer increased: 4157 - estimate: 1.020
+17:37:18.797 PHONE: battery level at 51
+17:37:18.798 PHONE: battery temperature at 35
+17:37:25.610 STAT: Trip Distance: 53.060 - Trip Fuel: 20769
+17:38:02.730 CONTEXT: Transition from Glide to Park
+17:38:11.732 SCANNER: Connection lost at speed 0
+17:38:25.696 STAT: Trip Distance: 53.211 - Trip Fuel: 20822
+17:39:25.854 STAT: Trip Distance: 53.211 - Trip Fuel: 20822
+17:40:26.000 STAT: Trip Distance: 53.211 - Trip Fuel: 20822
+17:41:26.065 STAT: Trip Distance: 53.211 - Trip Fuel: 20822
+17:42:07.167 Pausing activity Dash UserClosed=false
+17:42:07.178 Finished pausing activity Dash
+17:42:08.473 Resuming activity Dash
+17:42:08.474 DASH: Running TileFactory
+17:42:08.474 DASH: Orientation: Portrait
+17:42:08.474 DASH: Width: 1312
+17:42:08.474 DASH: Height: 2272
+17:42:08.483 LAYOUT: Pnl_temporaryTextSized - Text size: 12
+17:42:08.483 LAYOUT: Pnl_TempTextSized - Text size: 25
+17:42:08.503 DASH: Resize: 21 ms
+17:42:08.504 DASH: TileFactory done
+17:42:08.507 Finished resuming activity Dash
+17:42:11.838 DASH: User selected poweroff
+17:42:12.507 DASH: User quit
+17:42:12.570 LAYOUT: PanelEndOfTripLoaded
+17:42:12.571 LAYOUT: PanelEndOfTripLoadedTiled
+17:42:13.153 TOAST: Screen Capture Done
+17:42:13.158 Pausing activity Dash UserClosed=true
+17:42:13.162 STAT: Trip Distance: 53.211 - Trip Fuel: 20822
+17:42:13.162 STAT: Connection stats:
+17:42:13.163 STAT: Total Frames       : 76672
+17:42:13.163 STAT: Corrupted Frames   : 0
+17:42:13.163 STAT: Alien Frames       : 0
+17:42:13.163 STAT: NoData Frames      : 7597
+17:42:13.163 STAT: Avg cycle time     : 0.54
+17:42:13.163 STAT: Std dev            : 0.30
+17:42:13.163 STAT: Avg sequence lenght: 12.00
+17:42:13.163 STAT: Std dev            : 0.00
+17:42:13.163 STAT: PIDs overflows     : 0
+17:42:13.163 STAT: Avg PID ms delay   : 0
+17:42:13.163 STAT: Std dev            : 0
+17:42:13.163 STAT: Disconnections     : 1
+17:42:13.163 STAT: Avg Refresh        : 20.33
+17:42:13.163 STAT: Std dev            : 5.04
+17:42:13.163 STAT: Avg odo error      : 0.018
+17:42:13.164 STAT: Std dev            : 0.016
+17:42:13.164 STAT: Min text size      : 13
+17:42:13.164 STAT: Draw calls         : 44202
+17:42:13.164 STAT: Avoided Draw calls : 331514
+17:42:13.164 CAR: Writing end of trip data
+17:42:13.186 PREFS: Saving
+17:42:13.191 COLOR: Saving palette
+17:42:13.194 DB: Closing
+17:42:13.201 Closing logs
+17:42:13.205 PHONE: Free storage: 81,141,358,592
+17:42:13.205 PHONE: Free RAM    : 7,735,471
+17:42:13.205 Log closed

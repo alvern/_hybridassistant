@@ -1,0 +1,162 @@
+06:39:40.388 Debug Log opened at 06:39:40.385
+06:39:40.388 Flushing previous messages
+06:39:40.373 PHONE: battery level at 87
+06:39:40.374 PHONE: battery temperature at 22
+06:39:40.375 Creating activity Main FirstTime=true
+06:39:40.375 MAIN: checking permissions
+06:39:40.382 MAIN: all permissions granted
+06:39:40.382 Finished creating activity Main
+06:39:40.382 Resuming activity Main
+06:39:40.382 MAIN: all permissions granted
+06:39:40.382 INITCODE: Initialize
+06:39:40.382 INITCODE: Running first time
+06:39:40.388 End of buffered messages
+06:39:40.390 Version Name: 2.264.4
+06:39:40.391 PHONE: Manufacturer: Essential Products
+06:39:40.391 PHONE: Model       : PH-1
+06:39:40.392 PHONE: SDK         : 28
+06:39:40.392 PHONE: Locale      : en
+06:39:40.392 PHONE: Airplane    : false
+06:39:40.393 PHONE: GPS         : true
+06:39:40.394 PHONE: WiFi        : 0
+06:39:40.394 PHONE: Bluetooth   : 1
+06:39:40.394 PHONE: Uptime      : 82:07:40
+06:39:40.396 PHONE: Free storage: 80,986,382,336
+06:39:40.396 PHONE: Free RAM    : 2,555,592
+06:39:40.396 SHARE: cleaning up sharing directory
+06:39:40.399 DB: Opening at /storage/emulated/0/_hybridassistant/hybridassistant.db
+06:39:40.410 DB: table SECLOG not exists
+06:39:40.445 COLOR: Initialize palette
+06:39:40.445 PREFS: Loading
+06:39:40.445 << BT_Macadr: 00:04:3E:9B:AF:A6
+06:39:40.445 << TextSize: 1
+06:39:40.446 << MaxTrips: 0
+06:39:40.446 << AutoClose: 0
+06:39:40.446 << IgnoreChargerOnAutoClose: 0
+06:39:40.446 << FuelDisplay: 3
+06:39:40.446 << SpeedCorrectionFactor: 1
+06:39:40.447 << AutoSpeedCorrection: 0
+06:39:40.447 << FuelChartDisplay: 0
+06:39:40.447 << PowerChartDisplay: 0
+06:39:40.447 << HighPrecisionFuelChart: 1
+06:39:40.447 << FanAssistant: 0
+06:39:40.448 << FanStartTemperature: 36
+06:39:40.448 << FanStopTemperature: 15
+06:39:40.448 << ProbeEnabled: 1
+06:39:40.448 << Brightness: 0
+06:39:40.448 << AutoEnableBluetooth: 1
+06:39:40.449 << LeaveBluetoothEnabled: 0
+06:39:40.449 << UseFahrenheit: 1
+06:39:40.449 << UseMiles: 1
+06:39:40.449 << UseGallons: 1
+06:39:40.450 << UseImperial: 1
+06:39:40.450 << DisplayTimeInMotion: 0
+06:39:40.450 << DebugOBD: 0
+06:39:40.450 << DebugState: 0
+06:39:40.450 << SkipBTCheck: 0
+06:39:40.451 << HighSpeedLogging: 1
+06:39:40.451 << ConnectionMode: BT
+06:39:40.451 << E85Correction: 0
+06:39:40.451 << Tip_BluetoothNotconnected: 1
+06:39:40.451 << CurrentLanguage: 0
+06:39:40.452 << AutoScreenshot: 1
+06:39:40.452 << Tip_FirmwareWarning: 0
+06:39:40.452 << DontSendReports: 0
+06:39:40.452 << FlashBorder: 1
+06:39:40.453 << LastVersionCode: 264
+06:39:40.454 << DisclaimerAccepted: 1
+06:39:40.454 << OdoInMiles: 0
+06:39:40.455 << AutoOdo: 1
+06:39:40.456 << PixelFilter: 1
+06:39:40.457 << GlideAssistant: 0
+06:39:40.458 << GlideAssistantMG2: 1
+06:39:40.458 << PanelAssistant: 1
+06:39:40.459 << AlternativeFuelCalc: 0
+06:39:40.459 << AutoHUD: 0
+06:39:40.459 << AutoHUDReverse: 0
+06:39:40.459 << WiFiIP: 192.168.0.10
+06:39:40.459 << WiFiPort: 35000
+06:39:40.459 << Immersive: 0
+06:39:40.460 << ScrollLeftToRight: 1
+06:39:40.467 COLOR: Loading palette
+06:39:40.470 << CarDetect: 0
+06:39:40.471 INITCODE: Setting language to en
+06:39:40.482 Finished resuming activity Main
+06:39:40.495 Pausing activity Main UserClosed=true
+06:39:40.495 Finished pausing activity Main
+06:39:40.531 Creating activity Dash FirstTime=true
+06:39:40.531 DASH: Loading layout
+06:39:40.815 DASH: Layout loaded
+06:39:40.825 Finished creating activity Dash
+06:39:40.825 Resuming activity Dash
+06:39:40.834 DASH: Running TileFactory
+06:39:40.834 DASH: Orientation: Portrait
+06:39:40.834 DASH: Width: 1312
+06:39:40.834 DASH: Height: 2272
+06:39:40.857 LAYOUT: Pnl_EVSummaryTextSized
+06:39:40.857 LAYOUT: Pnl_EVTextSized
+06:39:40.865 LAYOUT: Pnl_BrakeTextSized
+06:39:40.870 LAYOUT: Pnl_RPMTextSized
+06:39:40.871 LAYOUT: Pnl_SOCTextSized
+06:39:40.877 LAYOUT: Pnl_PwrTextSized
+06:39:40.891 LAYOUT: Pnl_HVCoolTextSized
+06:39:40.896 LAYOUT: Pnl_TempTextSized
+06:39:40.905 LAYOUT: PanelPowerChartTextSized
+06:39:40.911 LAYOUT: Pnl_temporaryTextSized
+06:39:40.912 LAYOUT: Pnl_SpeedTextSized
+06:39:40.912 LAYOUT: Panel3TextSized
+06:39:40.912 LAYOUT: Pnl_temporaryTextSized - Text size: 12
+06:39:40.912 LAYOUT: Pnl_TempTextSized - Text size: 25
+06:39:40.929 LAYOUT: Panel12VTextSized
+06:39:40.933 DASH: Resize: 90 ms
+06:39:40.933 DASH: TileFactory done
+06:39:40.940 Connection mode: Bluetooth
+06:39:40.950 BT: Paired devices list
+06:39:40.950 BT: Device: OBDLink LX
+06:39:40.958 BT: Class : 300
+06:39:40.959 DASH: Connecting to Bluetooth ODB, attempt# 1, 00:04:3E:9B:AF:A6 - OBDLink LX/MX
+06:39:40.961 Finished resuming activity Dash
+06:39:41.965 DASH: GPS fix acquired
+06:39:42.964 DASH: GPS fix lost
+06:39:45.965 DASH: GPS fix acquired
+06:39:46.913 Serial not connected successfully
+06:39:46.914 DASH: Connecting to Bluetooth ODB, attempt# 2, 00:04:3E:9B:AF:A6 - OBDLink LX/MX
+06:39:52.056 Serial not connected successfully
+06:39:52.057 DASH: Connecting to Bluetooth ODB, attempt# 3, 00:04:3E:9B:AF:A6 - OBDLink LX/MX
+06:39:57.209 Serial not connected successfully
+06:39:57.210 DASH: Connecting to Bluetooth ODB, attempt# 4, 00:04:3E:9B:AF:A6 - OBDLink LX/MX
+06:40:03.326 Serial not connected successfully
+06:40:03.327 DASH: Connecting to Bluetooth ODB, attempt# 5, 00:04:3E:9B:AF:A6 - OBDLink LX/MX
+06:40:08.472 Serial not connected successfully
+06:40:41.081 STAT: Trip Distance: 0.000 - Trip Fuel: 0
+06:40:57.136 DASH: User selected poweroff
+06:40:58.009 DASH: User quit
+06:40:58.018 Pausing activity Dash UserClosed=true
+06:40:58.023 STAT: Trip Distance: 0.000 - Trip Fuel: 0
+06:40:58.023 STAT: Connection stats:
+06:40:58.024 STAT: Total Frames       : 0
+06:40:58.024 STAT: Corrupted Frames   : 0
+06:40:58.024 STAT: Alien Frames       : 0
+06:40:58.024 STAT: NoData Frames      : 0
+06:40:58.024 STAT: Avg cycle time     : 0.00
+06:40:58.025 STAT: Std dev            : 0.00
+06:40:58.025 STAT: Avg sequence lenght: 0.00
+06:40:58.025 STAT: Std dev            : 0.00
+06:40:58.025 STAT: PIDs overflows     : 0
+06:40:58.025 STAT: Avg PID ms delay   : 0
+06:40:58.026 STAT: Std dev            : 0
+06:40:58.026 STAT: Disconnections     : 0
+06:40:58.026 STAT: Avg Refresh        : 4.00
+06:40:58.026 STAT: Std dev            : 0.00
+06:40:58.026 STAT: Avg odo error      : 0.000
+06:40:58.026 STAT: Std dev            : 0.000
+06:40:58.027 STAT: Min text size      : 13
+06:40:58.027 STAT: Draw calls         : 127
+06:40:58.027 STAT: Avoided Draw calls : 327
+06:40:58.027 PREFS: Saving
+06:40:58.041 COLOR: Saving palette
+06:40:58.046 DB: Closing
+06:40:58.065 Closing logs
+06:40:58.075 PHONE: Free storage: 80,986,677,248
+06:40:58.075 PHONE: Free RAM    : 5,459,006
+06:40:58.075 Log closed

@@ -1,0 +1,704 @@
+17:11:50.836 Debug Log opened at 17:11:50.835
+17:11:50.836 Flushing previous messages
+17:11:50.833 PHONE: battery level at 72
+17:11:50.833 PHONE: battery temperature at 31
+17:11:50.833 Creating activity Main FirstTime=true
+17:11:50.833 MAIN: checking permissions
+17:11:50.834 MAIN: all permissions granted
+17:11:50.834 Finished creating activity Main
+17:11:50.834 Resuming activity Main
+17:11:50.834 MAIN: all permissions granted
+17:11:50.834 INITCODE: Initialize
+17:11:50.834 INITCODE: Running first time
+17:11:50.836 End of buffered messages
+17:11:50.837 Version Name: 2.264.4
+17:11:50.837 PHONE: Manufacturer: Essential Products
+17:11:50.837 PHONE: Model       : PH-1
+17:11:50.837 PHONE: SDK         : 28
+17:11:50.837 PHONE: Locale      : en
+17:11:50.838 PHONE: Airplane    : false
+17:11:50.838 PHONE: GPS         : true
+17:11:50.839 PHONE: WiFi        : 1
+17:11:50.839 PHONE: Bluetooth   : 1
+17:11:50.839 PHONE: Uptime      : 26:09:35
+17:11:50.840 PHONE: Free storage: 81,137,557,504
+17:11:50.840 PHONE: Free RAM    : 2,555,592
+17:11:50.841 SHARE: cleaning up sharing directory
+17:11:50.843 DB: Opening at /storage/emulated/0/_hybridassistant/hybridassistant.db
+17:11:50.853 DB: table SECLOG not exists
+17:11:50.896 COLOR: Initialize palette
+17:11:50.896 PREFS: Loading
+17:11:50.897 << BT_Macadr: 00:04:3E:9B:AF:A6
+17:11:50.897 << TextSize: 1
+17:11:50.897 << MaxTrips: 0
+17:11:50.897 << AutoClose: 0
+17:11:50.898 << IgnoreChargerOnAutoClose: 0
+17:11:50.898 << FuelDisplay: 3
+17:11:50.898 << SpeedCorrectionFactor: 1
+17:11:50.898 << AutoSpeedCorrection: 0
+17:11:50.899 << FuelChartDisplay: 0
+17:11:50.899 << PowerChartDisplay: 0
+17:11:50.899 << HighPrecisionFuelChart: 1
+17:11:50.899 << FanAssistant: 0
+17:11:50.900 << FanStartTemperature: 36
+17:11:50.900 << FanStopTemperature: 15
+17:11:50.900 << ProbeEnabled: 1
+17:11:50.901 << Brightness: 0
+17:11:50.902 << AutoEnableBluetooth: 1
+17:11:50.903 << LeaveBluetoothEnabled: 0
+17:11:50.903 << UseFahrenheit: 1
+17:11:50.903 << UseMiles: 1
+17:11:50.903 << UseGallons: 1
+17:11:50.904 << UseImperial: 1
+17:11:50.904 << DisplayTimeInMotion: 0
+17:11:50.904 << DebugOBD: 0
+17:11:50.904 << DebugState: 0
+17:11:50.905 << SkipBTCheck: 0
+17:11:50.905 << HighSpeedLogging: 1
+17:11:50.905 << ConnectionMode: BT
+17:11:50.905 << E85Correction: 0
+17:11:50.905 << Tip_BluetoothNotconnected: 1
+17:11:50.906 << CurrentLanguage: 0
+17:11:50.906 << AutoScreenshot: 1
+17:11:50.906 << Tip_FirmwareWarning: 0
+17:11:50.907 << DontSendReports: 0
+17:11:50.907 << FlashBorder: 1
+17:11:50.907 << LastVersionCode: 264
+17:11:50.908 << DisclaimerAccepted: 1
+17:11:50.908 << OdoInMiles: 0
+17:11:50.909 << AutoOdo: 1
+17:11:50.909 << PixelFilter: 1
+17:11:50.909 << GlideAssistant: 1
+17:11:50.909 << GlideAssistantMG2: 1
+17:11:50.910 << PanelAssistant: 1
+17:11:50.910 << AlternativeFuelCalc: 0
+17:11:50.910 << AutoHUD: 0
+17:11:50.910 << AutoHUDReverse: 0
+17:11:50.910 << WiFiIP: 192.168.0.10
+17:11:50.911 << WiFiPort: 35000
+17:11:50.911 << Immersive: 0
+17:11:50.911 << ScrollLeftToRight: 1
+17:11:50.923 COLOR: Loading palette
+17:11:50.928 << CarDetect: 0
+17:11:50.928 INITCODE: Setting language to en
+17:11:50.940 Finished resuming activity Main
+17:11:50.957 Pausing activity Main UserClosed=true
+17:11:50.957 Finished pausing activity Main
+17:11:51.036 Creating activity Dash FirstTime=true
+17:11:51.037 DASH: Loading layout
+17:11:51.370 DASH: Layout loaded
+17:11:51.383 Finished creating activity Dash
+17:11:51.383 Resuming activity Dash
+17:11:51.390 DASH: Running TileFactory
+17:11:51.390 DASH: Orientation: Portrait
+17:11:51.390 DASH: Width: 1312
+17:11:51.391 DASH: Height: 2272
+17:11:51.413 LAYOUT: Pnl_EVSummaryTextSized
+17:11:51.413 LAYOUT: Pnl_EVTextSized
+17:11:51.421 LAYOUT: Pnl_BrakeTextSized
+17:11:51.427 LAYOUT: Pnl_RPMTextSized
+17:11:51.427 LAYOUT: Pnl_SOCTextSized
+17:11:51.432 LAYOUT: Pnl_PwrTextSized
+17:11:51.446 LAYOUT: Pnl_HVCoolTextSized
+17:11:51.451 LAYOUT: Pnl_TempTextSized
+17:11:51.460 LAYOUT: PanelPowerChartTextSized
+17:11:51.467 LAYOUT: Pnl_temporaryTextSized
+17:11:51.467 LAYOUT: Pnl_SpeedTextSized
+17:11:51.467 LAYOUT: Panel3TextSized
+17:11:51.467 LAYOUT: Pnl_temporaryTextSized - Text size: 12
+17:11:51.468 LAYOUT: Pnl_TempTextSized - Text size: 25
+17:11:51.484 LAYOUT: Panel12VTextSized
+17:11:51.488 DASH: Resize: 88 ms
+17:11:51.489 DASH: TileFactory done
+17:11:51.546 LAYOUT: PanelGlideChartLoaded
+17:11:51.546 LAYOUT: PanelGlideChartLoadedTiled
+17:11:51.557 Connection mode: Bluetooth
+17:11:51.571 BT: Paired devices list
+17:11:51.571 BT: Device: OBDLink LX
+17:11:51.578 BT: Class : 300
+17:11:51.578 DASH: Connecting to Bluetooth ODB, attempt# 1, 00:04:3E:9B:AF:A6 - OBDLink LX/MX
+17:11:51.580 Finished resuming activity Dash
+17:11:53.583 DASH: GPS fix acquired
+17:11:53.770 Serial connected successfully
+17:11:53.771 TOAST: Connected successfully
+17:11:53.837 SCANNER: service created
+17:11:53.838 SCANNER: service started
+17:11:53.886 FAN CTRL: service created
+17:11:53.887 FAN CTRL: initial controller state: OFF
+17:11:53.888 FAN CTRL: service started
+17:11:54.587 DASH: GPS fix lost
+17:11:55.585 DASH: GPS fix acquired
+17:11:57.694 CARTYPE: Detecting car: VIN=JTDKB20U767------ Model=NHW20# 
+17:11:57.698 CARTYPE: Found car model Prius 2
+17:11:57.699 CARTYPE: m_Name=Prius 2
+17:11:57.699 CARTYPE: m_EngineDisplacement=1500
+17:11:57.700 CARTYPE: m_Cylinders=4
+17:11:57.701 CARTYPE: m_MAF=false
+17:11:57.702 CARTYPE: m_RoomTempAvailable=false
+17:11:57.702 CARTYPE: m_AmbientTempAvailable=false
+17:11:57.703 CARTYPE: m_MGTempAvailable=true
+17:11:57.704 CARTYPE: m_InverterTempAvailable=true
+17:11:57.704 CARTYPE: m_InverterLowerBound=16
+17:11:57.705 CARTYPE: m_FanAvailable=true
+17:11:57.706 CARTYPE: m_FanStatusAvailable=true
+17:11:57.707 CARTYPE: m_CheckAvailable=true
+17:11:57.707 CARTYPE: m_HSIAvailable=false
+17:11:57.708 CARTYPE: m_Warmup=true
+17:11:57.708 CARTYPE: m_AcceleratorAvailable=true
+17:11:57.709 CARTYPE: m_NoData=false
+17:11:57.709 CARTYPE: m_MGR=false
+17:11:57.710 CARTYPE: m_PSD=1
+17:11:57.710 CARTYPE: m_BrakeSpeed=15
+17:11:57.711 CARTYPE: m_EngineStates=1
+17:11:57.711 CARTYPE: m_ScannerSequencer=1
+17:11:57.712 CARTYPE: m_numBlocks=14
+17:11:57.712 CARTYPE: m_BatteryTemperatureNumberOfSensors=3
+17:11:57.713 CARTYPE: m_ICEPowerAvailable=true
+17:11:57.714 CARTYPE: m_ICELoadUseful=false
+17:11:57.714 CARTYPE: m_PlugIn=false
+17:11:57.715 CARTYPE: m_HVType=0
+17:11:57.716 CARTYPE: m_ICEType=0
+17:11:57.717 CARTYPE: m_ODOAvailable=false
+17:11:57.718 CARTYPE: m_MG2PowerAvailable=true
+17:11:57.718 CARTYPE: m_BrakeAvailable=true
+17:11:57.719 CARTYPE: m_GearboxAvailable=false
+17:11:57.719 CARTYPE: m_PowerTableICEPower=57
+17:11:57.721 CARTYPE: m_PowerTableBattPower=23
+17:11:57.722 HSD: Going to S0 - Power on
+17:11:57.724 SCANNER: Interface: ELM327 v1.3a
+17:11:57.724 SCANNER: Firmware: STN1155 v4.3.0
+17:11:57.833 CAR: First odometer value: 3988
+17:11:58.082 SCANNER: NO DATA received on 7C0 2129 1
+17:11:58.083 HSD: Warmup ON at 0km/h 67C
+17:11:58.084 HSD: Going to Stable S0 - Coolant over 40C
+17:11:58.507 HSD: Going to S4 - Coolant over 65C
+17:11:58.726 CONTEXT: Transition from Undefined to Park
+17:12:12.731 CONTEXT: Transition from Park to Glide
+17:12:26.529 CAR: Odometer increased: 3989 - estimate: 0.145
+17:12:30.390 HSD: Warmup OFF at 21km/h 71C
+17:12:51.723 STAT: Trip Distance: 0.316 - Trip Fuel: 397
+17:12:53.416 PHONE: battery temperature at 32
+17:13:25.820 CONTEXT: Transition from Glide to Park
+17:13:51.784 STAT: Trip Distance: 0.533 - Trip Fuel: 457
+17:14:51.899 STAT: Trip Distance: 0.604 - Trip Fuel: 457
+17:15:34.256 PHONE: battery level at 71
+17:15:34.256 PHONE: battery temperature at 33
+17:15:52.085 STAT: Trip Distance: 0.611 - Trip Fuel: 457
+17:16:27.164 CONTEXT: Transition from Park to Glide
+17:16:52.172 STAT: Trip Distance: 0.929 - Trip Fuel: 721
+17:17:29.990 CAR: Odometer increased: 3990 - estimate: 1.092
+17:17:29.991 CAR: odometer appears to be in kilometers; option is already set
+17:17:52.308 STAT: Trip Distance: 1.371 - Trip Fuel: 994
+17:18:52.391 STAT: Trip Distance: 2.034 - Trip Fuel: 1336
+17:19:01.182 CAR: Odometer increased: 3991 - estimate: 1.006
+17:19:23.490 CONTEXT: Transition from Glide to Park
+17:19:37.509 CONTEXT: Transition from Park to Glide
+17:19:52.507 STAT: Trip Distance: 2.502 - Trip Fuel: 1531
+17:20:38.167 CAR: Odometer increased: 3992 - estimate: 1.038
+17:20:52.612 STAT: Trip Distance: 3.314 - Trip Fuel: 1693
+17:21:06.705 CONTEXT: Transition from Glide to Park
+17:21:13.709 CONTEXT: Transition from Park to Glide
+17:21:33.084 PHONE: battery level at 70
+17:21:33.085 PHONE: battery temperature at 32
+17:21:52.697 STAT: Trip Distance: 3.762 - Trip Fuel: 1859
+17:22:25.877 CAR: Odometer increased: 3993 - estimate: 1.028
+17:22:52.799 STAT: Trip Distance: 4.337 - Trip Fuel: 1980
+17:23:04.885 CONTEXT: Transition from Glide to Park
+17:23:50.969 CONTEXT: Transition from Park to Glide
+17:23:52.901 STAT: Trip Distance: 4.466 - Trip Fuel: 2042
+17:24:14.045 CONTEXT: Transition from Glide to Park
+17:24:53.032 STAT: Trip Distance: 4.548 - Trip Fuel: 2066
+17:24:58.120 CONTEXT: Transition from Park to Glide
+17:25:34.247 PHONE: battery level at 69
+17:25:46.869 CAR: Odometer increased: 3994 - estimate: 1.047
+17:25:53.129 STAT: Trip Distance: 5.253 - Trip Fuel: 2425
+17:26:21.259 CONTEXT: Transition from Glide to Park
+17:26:53.252 STAT: Trip Distance: 5.468 - Trip Fuel: 2471
+17:27:03.332 CONTEXT: Transition from Park to Glide
+17:27:23.389 CONTEXT: Transition from Glide to Park
+17:27:53.407 STAT: Trip Distance: 5.574 - Trip Fuel: 2499
+17:28:53.497 STAT: Trip Distance: 5.610 - Trip Fuel: 2509
+17:29:47.701 PHONE: battery level at 68
+17:29:47.701 PHONE: battery temperature at 33
+17:29:53.609 STAT: Trip Distance: 5.614 - Trip Fuel: 2509
+17:30:12.704 CONTEXT: Transition from Park to Glide
+17:30:31.726 CONTEXT: Transition from Glide to Park
+17:30:53.708 STAT: Trip Distance: 5.730 - Trip Fuel: 2589
+17:31:02.774 CONTEXT: Transition from Park to Glide
+17:31:49.850 CONTEXT: Transition from Glide to Park
+17:31:53.794 STAT: Trip Distance: 6.035 - Trip Fuel: 2742
+17:32:26.942 CONTEXT: Transition from Park to Glide
+17:32:45.370 CAR: Odometer increased: 3995 - estimate: 1.099
+17:32:53.937 STAT: Trip Distance: 6.273 - Trip Fuel: 3009
+17:33:54.075 STAT: Trip Distance: 7.046 - Trip Fuel: 3310
+17:34:01.333 CAR: Odometer increased: 3996 - estimate: 1.011
+17:34:46.585 PHONE: battery level at 67
+17:34:54.178 STAT: Trip Distance: 7.953 - Trip Fuel: 3651
+17:35:19.324 CONTEXT: Transition from Glide to Park
+17:35:48.359 CONTEXT: Transition from Park to Glide
+17:35:54.319 STAT: Trip Distance: 8.141 - Trip Fuel: 3674
+17:36:23.427 CONTEXT: Transition from Glide to Park
+17:36:54.479 STAT: Trip Distance: 8.222 - Trip Fuel: 3674
+17:37:26.013 CAR: Odometer increased: 3997 - estimate: 1.123
+17:37:54.689 STAT: Trip Distance: 8.212 - Trip Fuel: 3692
+17:38:05.728 CONTEXT: Transition from Park to Glide
+17:38:54.781 STAT: Trip Distance: 9.139 - Trip Fuel: 4177
+17:38:59.150 CAR: Odometer increased: 3998 - estimate: 1.070
+17:39:37.802 PHONE: battery level at 66
+17:39:37.802 PHONE: battery temperature at 32
+17:39:54.872 STAT: Trip Distance: 9.751 - Trip Fuel: 4468
+17:39:59.962 CONTEXT: Transition from Glide to Park
+17:40:50.021 CONTEXT: Transition from Park to Glide
+17:40:54.941 STAT: Trip Distance: 9.840 - Trip Fuel: 4528
+17:41:03.041 CONTEXT: Transition from Glide to Park
+17:41:36.091 CONTEXT: Transition from Park to Glide
+17:41:55.105 STAT: Trip Distance: 10.091 - Trip Fuel: 4704
+17:42:04.362 CAR: Odometer increased: 3999 - estimate: 1.067
+17:42:55.303 STAT: Trip Distance: 10.881 - Trip Fuel: 4932
+17:43:16.406 CONTEXT: Transition from Glide to Park
+17:43:35.458 CONTEXT: Transition from Park to Glide
+17:43:49.433 PHONE: battery level at 65
+17:43:51.124 CAR: Odometer increased: 4000 - estimate: 1.039
+17:43:55.482 STAT: Trip Distance: 11.206 - Trip Fuel: 5094
+17:44:55.582 STAT: Trip Distance: 11.863 - Trip Fuel: 5352
+17:45:34.261 PHONE: battery level at 64
+17:45:34.621 CAR: Odometer increased: 4001 - estimate: 1.032
+17:45:55.704 STAT: Trip Distance: 12.355 - Trip Fuel: 5453
+17:46:07.761 CONTEXT: Transition from Glide to Park
+17:46:15.775 CONTEXT: Transition from Park to Glide
+17:46:36.816 CONTEXT: Transition from Glide to Park
+17:46:50.826 SCANNER: Connection lost at speed 0
+17:46:51.827 SCANNER: Connection established
+17:46:55.790 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:47:05.856 SCANNER: Connection lost at speed 0
+17:47:55.941 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:48:56.032 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:49:56.196 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:50:56.322 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:51:56.451 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:52:10.888 PHONE: battery level at 63
+17:52:10.888 PHONE: battery temperature at 33
+17:52:56.614 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:53:56.679 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:54:56.757 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:55:34.262 PHONE: battery temperature at 34
+17:55:56.961 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:56:57.078 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:57:57.134 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:58:57.239 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+17:58:58.488 PHONE: battery level at 62
+17:58:58.488 PHONE: battery temperature at 35
+17:59:57.443 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:00:57.554 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:01:57.680 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:02:57.791 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:03:57.969 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:04:14.948 PHONE: battery level at 61
+18:04:14.949 PHONE: battery temperature at 36
+18:04:16.419 PHONE: battery temperature at 35
+18:04:34.138 PHONE: battery temperature at 36
+18:04:58.127 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:05:58.300 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:06:58.468 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:07:58.581 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:08:58.648 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:09:49.381 PHONE: battery level at 60
+18:09:58.751 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:10:58.814 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:11:58.983 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:12:59.178 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:13:59.295 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:14:48.533 PHONE: battery level at 59
+18:14:59.466 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:15:59.584 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:16:59.690 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:17:59.865 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:19:00.010 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:19:40.388 PHONE: battery level at 58
+18:19:40.389 PHONE: battery temperature at 37
+18:20:00.127 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:21:00.242 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:22:00.345 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:23:00.481 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:24:00.599 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:24:13.242 PHONE: battery level at 57
+18:25:00.710 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:26:00.786 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:27:00.981 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:28:01.112 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:28:59.274 PHONE: battery level at 56
+18:29:01.222 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:30:01.417 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:31:01.563 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:32:01.689 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:33:01.737 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:33:43.874 PHONE: battery level at 55
+18:34:01.874 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:35:02.066 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:36:02.145 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:37:02.321 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:38:02.515 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:38:50.495 PHONE: battery level at 54
+18:39:02.623 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:40:02.823 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:41:02.972 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:42:03.095 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:43:03.179 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:43:57.099 PHONE: battery level at 53
+18:44:03.298 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:45:03.388 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:46:03.514 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:47:03.648 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:48:03.831 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:49:03.986 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:49:09.597 PHONE: battery level at 52
+18:50:04.120 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:51:04.263 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:52:04.469 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:53:04.642 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:54:04.718 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:54:30.874 PHONE: battery level at 51
+18:55:04.875 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:56:04.976 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:57:05.148 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:58:05.271 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:59:05.387 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+18:59:33.130 PHONE: battery level at 50
+19:00:05.462 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:01:05.587 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:02:05.643 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:03:05.697 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:03:11.707 PHONE: battery level at 49
+19:04:05.835 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:05:05.939 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:06:06.091 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:07:06.247 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:08:06.386 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:09:06.504 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:09:11.705 PHONE: battery level at 48
+19:10:06.628 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:11:06.714 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:12:06.782 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:13:06.882 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:14:07.097 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:15:07.258 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:15:20.854 PHONE: battery level at 47
+19:16:07.378 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:17:07.430 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:18:07.652 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:19:07.743 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:20:07.834 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:20:59.647 PHONE: battery level at 46
+19:21:07.987 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:22:08.186 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:23:08.270 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:24:08.360 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:25:08.545 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:25:34.281 PHONE: battery level at 45
+19:26:08.667 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:27:08.795 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:28:08.929 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:29:09.057 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:30:09.270 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:31:09.420 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:32:09.560 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:32:20.024 PHONE: battery level at 44
+19:32:20.025 PHONE: battery temperature at 36
+19:33:09.668 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:34:09.693 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:35:09.987 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:36:10.114 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:37:10.242 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:38:04.556 PHONE: battery level at 43
+19:38:10.349 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:39:10.494 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:40:10.618 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:41:10.768 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:42:10.862 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:43:11.003 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:43:41.744 PHONE: battery level at 42
+19:44:11.197 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:45:11.307 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:46:11.392 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:47:11.565 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:48:11.671 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:48:52.583 PHONE: battery level at 41
+19:49:11.709 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:50:11.782 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:51:11.947 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:52:12.039 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:53:12.204 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:54:12.366 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:54:31.273 PHONE: battery level at 40
+19:55:12.421 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:56:12.576 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:57:12.678 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:58:12.779 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+19:59:12.846 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:00:13.041 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:00:24.685 PHONE: battery level at 39
+20:01:13.207 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:02:13.295 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:03:13.470 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:04:13.645 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:05:13.770 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:05:34.258 PHONE: battery level at 38
+20:05:34.259 PHONE: battery temperature at 35
+20:06:13.864 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:07:14.014 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:08:14.094 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:09:14.227 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:10:14.363 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:11:14.560 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:12:14.642 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:12:15.909 PHONE: battery level at 37
+20:13:14.701 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:14:14.786 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:15:14.921 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:16:15.066 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:17:15.125 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:18:15.296 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:18:16.563 PHONE: battery level at 36
+20:19:15.382 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:20:15.523 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:21:15.677 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:22:15.783 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:23:15.927 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:24:16.016 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:24:27.368 PHONE: battery level at 35
+20:24:27.369 PHONE: battery temperature at 34
+20:25:16.133 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:26:16.268 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:27:16.418 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:28:16.545 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:29:16.697 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:30:16.839 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:31:16.968 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:32:17.053 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:33:17.150 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:34:17.277 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:35:17.413 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:35:34.257 PHONE: battery level at 34
+20:36:03.333 PHONE: battery level at 33
+20:36:17.526 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:37:17.663 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:38:17.712 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:39:17.834 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:40:17.984 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:41:18.251 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:42:18.334 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:43:18.467 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:43:35.838 PHONE: battery level at 32
+20:43:35.839 PHONE: battery temperature at 33
+20:43:37.314 PHONE: battery temperature at 34
+20:44:18.604 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:45:18.710 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:45:34.256 PHONE: battery temperature at 33
+20:46:18.845 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:47:18.945 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:48:19.074 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:49:19.255 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:49:20.209 PHONE: battery level at 31
+20:50:19.461 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:51:19.557 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:52:19.832 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:53:19.901 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:54:20.017 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:55:20.147 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:56:20.337 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:57:20.394 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:58:20.527 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+20:59:20.694 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:00:20.882 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:01:11.824 PHONE: battery level at 29
+21:01:21.087 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:02:21.180 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:03:21.366 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:04:21.567 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:05:21.634 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:05:34.273 PHONE: battery temperature at 32
+21:06:21.731 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:07:21.966 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:08:22.099 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:09:22.167 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:10:13.259 PHONE: battery level at 28
+21:10:22.217 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:11:22.280 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:11:35.437 PHONE: battery level at 27
+21:12:22.357 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:13:22.461 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:14:22.581 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:15:22.694 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:16:22.781 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:17:22.922 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:18:23.113 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:19:23.254 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:20:23.369 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:21:23.599 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:22:23.657 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:23:23.765 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:24:23.944 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:24:57.547 PHONE: battery level at 25
+21:25:24.071 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:26:24.247 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:27:24.378 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:28:24.556 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:29:24.650 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:30:24.692 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:31:24.803 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:32:24.967 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:33:25.031 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:34:25.244 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:35:25.404 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:35:34.257 PHONE: battery level at 24
+21:36:25.550 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:37:25.644 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:38:25.730 STAT: Trip Distance: 12.458 - Trip Fuel: 5484
+21:39:02.836 SCANNER: Connection established
+21:39:02.862 HSD: Going to S0 - Coolant under 40C
+21:39:03.263 HSD: Going to Unstable S0 - Coolant under 40C
+21:39:07.841 HSD: Going to S4 - Coolant over 65C
+21:39:17.174 HSD: Warmup ON at 0km/h 63C
+21:39:25.846 STAT: Trip Distance: 12.474 - Trip Fuel: 5557
+21:39:28.906 CONTEXT: Transition from Park to Glide
+21:40:26.094 STAT: Trip Distance: 12.955 - Trip Fuel: 6120
+21:40:51.035 CAR: Odometer increased: 4002 - estimate: 1.051
+21:40:59.146 PHONE: battery level at 23
+21:40:59.148 PHONE: battery temperature at 31
+21:41:20.679 HSD: Going to Idle Check - Detected in S4 at 46km/h
+21:41:26.331 STAT: Trip Distance: 13.524 - Trip Fuel: 6620
+21:41:33.085 HSD: RPM higher than idle check signature
+21:41:33.511 HSD: RPM higher than idle check signature
+21:41:40.399 HSD: RPM higher than idle check signature
+21:41:40.814 HSD: RPM higher than idle check signature
+21:41:41.208 HSD: RPM higher than idle check signature
+21:41:41.658 HSD: RPM higher than idle check signature
+21:41:41.659 HSD: Going to S4 - Idle Check aborted after 21.4 seconds
+21:41:55.945 HSD: Warmup OFF at 56km/h 77C
+21:42:24.513 CONTEXT: Transition from Glide to Park
+21:42:26.429 STAT: Trip Distance: 13.947 - Trip Fuel: 6923
+21:42:33.727 HSD: Warmup ON at 7km/h 75C
+21:42:37.520 CONTEXT: Transition from Park to Glide
+21:42:54.131 CAR: Odometer increased: 4003 - estimate: 1.038
+21:42:56.060 HSD: Warmup OFF at 54km/h 81C
+21:43:23.165 HSD: Warmup ON at 52km/h 78C
+21:43:25.866 HSD: Warmup OFF at 56km/h 80C
+21:43:26.599 STAT: Trip Distance: 14.635 - Trip Fuel: 7239
+21:44:03.437 PHONE: battery level at 22
+21:44:11.713 CONTEXT: Transition from Glide to Park
+21:44:14.533 HSD: Warmup ON at 11km/h 79C
+21:44:18.733 CONTEXT: Transition from Park to Glide
+21:44:21.237 CAR: Odometer increased: 4004 - estimate: 1.024
+21:44:25.617 HSD: Going to Idle Check - Detected in S4 at 48km/h
+21:44:26.729 STAT: Trip Distance: 15.215 - Trip Fuel: 7389
+21:44:27.333 HSD: RPM higher than idle check signature
+21:44:28.314 HSD: RPM higher than idle check signature
+21:44:28.886 HSD: RPM higher than idle check signature
+21:44:28.887 HSD: Going to S4 - Idle Check aborted after 3.7 seconds
+21:44:30.960 HSD: Going to Idle Check - Detected in S4 at 50km/h
+21:44:42.163 HSD: RPM higher than idle check signature
+21:44:42.573 HSD: RPM higher than idle check signature
+21:44:42.961 HSD: RPM higher than idle check signature
+21:44:43.379 HSD: RPM higher than idle check signature
+21:44:43.380 HSD: Going to S4 - Idle Check aborted after 12.8 seconds
+21:44:51.742 HSD: Warmup OFF at 56km/h 81C
+21:45:07.856 CONTEXT: Transition from Glide to Highway
+21:45:21.881 CAR: Odometer increased: 4005 - estimate: 1.021
+21:45:26.861 STAT: Trip Distance: 16.285 - Trip Fuel: 7974
+21:46:00.533 CAR: Odometer increased: 4006 - estimate: 1.007
+21:46:10.790 HSD: Warmup ON at 100km/h 84C
+21:46:27.060 STAT: Trip Distance: 17.872 - Trip Fuel: 8587
+21:46:36.184 CAR: Odometer increased: 4007 - estimate: 1.020
+21:46:41.527 HSD: Warmup OFF at 103km/h 82C
+21:47:04.207 CONTEXT: Transition from Highway to Glide
+21:47:18.637 CAR: Odometer increased: 4008 - estimate: 1.016
+21:47:27.252 STAT: Trip Distance: 19.360 - Trip Fuel: 9032
+21:47:27.277 CONTEXT: Transition from Glide to Highway
+21:47:57.343 CAR: Odometer increased: 4009 - estimate: 1.020
+21:48:27.358 STAT: Trip Distance: 20.875 - Trip Fuel: 9317
+21:48:32.502 CONTEXT: Transition from Highway to Glide
+21:48:39.156 CAR: Odometer increased: 4010 - estimate: 1.003
+21:48:44.506 CONTEXT: Transition from Glide to Highway
+21:49:13.995 PHONE: battery level at 21
+21:49:19.297 CAR: Odometer increased: 4011 - estimate: 1.011
+21:49:27.520 STAT: Trip Distance: 22.364 - Trip Fuel: 9849
+21:50:02.532 CAR: Odometer increased: 4012 - estimate: 1.006
+21:50:27.680 STAT: Trip Distance: 23.763 - Trip Fuel: 10257
+21:50:44.251 CAR: Odometer increased: 4013 - estimate: 1.047
+21:51:23.476 CAR: Odometer increased: 4014 - estimate: 0.990
+21:51:27.814 STAT: Trip Distance: 25.247 - Trip Fuel: 10696
+21:51:39.912 CONTEXT: Transition from Highway to Glide
+21:51:56.936 DASH: GPS fix lost
+21:52:10.571 CAR: Odometer increased: 4015 - estimate: 1.012
+21:52:13.023 CONTEXT: Transition from Glide to Highway
+21:52:15.988 DASH: GPS fix acquired
+21:52:28.006 STAT: Trip Distance: 26.617 - Trip Fuel: 11123
+21:52:49.228 CAR: Odometer increased: 4016 - estimate: 1.022
+21:53:08.183 CONTEXT: Transition from Highway to Glide
+21:53:28.128 STAT: Trip Distance: 27.826 - Trip Fuel: 11239
+21:53:59.121 HSD: Warmup ON at 28km/h 81C
+21:53:59.266 CAR: Odometer increased: 4017 - estimate: 1.019
+21:54:11.161 HSD: Warmup OFF at 56km/h 85C
+21:54:28.310 STAT: Trip Distance: 28.593 - Trip Fuel: 11490
+21:54:41.928 HSD: Warmup ON at 13km/h 84C
+21:54:50.368 HSD: Going to Idle Check - Detected in S4 at 39km/h
+21:54:56.182 HSD: RPM higher than idle check signature
+21:54:56.652 HSD: RPM higher than idle check signature
+21:54:57.969 HSD: RPM higher than idle check signature
+21:54:57.970 HSD: Going to S4 - Idle Check aborted after 8.0 seconds
+21:54:58.396 HSD: Going to Idle Check - Detected in S4 at 39km/h
+21:55:00.527 HSD: Warmup OFF at 0km/h 83C
+21:55:00.529 HSD: Warmup turned off during idle check at 1014 RPM 3.08 kW
+21:55:00.529 HSD: Going to S4 - Idle Check completed in 10.6 seconds at 0 km/h
+21:55:03.451 CONTEXT: Transition from Glide to Park
+21:55:14.488 CONTEXT: Transition from Park to Glide
+21:55:28.454 STAT: Trip Distance: 28.997 - Trip Fuel: 11687
+21:55:32.505 CONTEXT: Transition from Glide to Park
+21:55:34.266 PHONE: battery level at 20
+21:55:51.557 CONTEXT: Transition from Park to Glide
+21:56:03.516 CAR: Odometer increased: 4018 - estimate: 1.023
+21:56:28.581 STAT: Trip Distance: 29.540 - Trip Fuel: 11862
+21:57:19.005 CAR: Odometer increased: 4019 - estimate: 1.027
+21:57:28.666 STAT: Trip Distance: 30.233 - Trip Fuel: 11984
+21:58:04.762 CONTEXT: Transition from Glide to Park
+21:58:17.767 SCANNER: Connection lost at speed 0
+21:58:28.746 STAT: Trip Distance: 30.342 - Trip Fuel: 12007
+21:59:28.965 STAT: Trip Distance: 30.342 - Trip Fuel: 12007
+22:00:17.102 SCANNER: Connection established
+22:00:29.079 STAT: Trip Distance: 30.352 - Trip Fuel: 12007
+22:00:30.474 HSD: Warmup ON at 8km/h 83C
+22:01:02.521 DASH: User selected poweroff
+22:01:03.445 DASH: User quit
+22:01:03.491 LAYOUT: PanelEndOfTripLoaded
+22:01:03.491 LAYOUT: PanelEndOfTripLoadedTiled
+22:01:04.077 TOAST: Screen Capture Done
+22:01:04.080 Pausing activity Dash UserClosed=true
+22:01:04.082 STAT: Trip Distance: 30.383 - Trip Fuel: 12193
+22:01:04.083 STAT: Connection stats:
+22:01:04.083 STAT: Total Frames       : 346780
+22:01:04.083 STAT: Corrupted Frames   : 0
+22:01:04.083 STAT: Alien Frames       : 0
+22:01:04.083 STAT: NoData Frames      : 7776
+22:01:04.083 STAT: Avg cycle time     : 0.60
+22:01:04.083 STAT: Std dev            : 0.25
+22:01:04.083 STAT: Avg sequence lenght: 12.00
+22:01:04.083 STAT: Std dev            : 0.00
+22:01:04.083 STAT: PIDs overflows     : 0
+22:01:04.083 STAT: Avg PID ms delay   : 0
+22:01:04.083 STAT: Std dev            : 0
+22:01:04.083 STAT: Disconnections     : 3
+22:01:04.083 STAT: Avg Refresh        : 19.67
+22:01:04.083 STAT: Std dev            : 4.49
+22:01:04.083 STAT: Avg odo error      : 0.034
+22:01:04.084 STAT: Std dev            : 0.030
+22:01:04.084 STAT: Min text size      : 13
+22:01:04.084 STAT: Draw calls         : 80160
+22:01:04.084 STAT: Avoided Draw calls : 1519534
+22:01:04.084 CAR: Writing end of trip data
+22:01:04.098 PREFS: Saving
+22:01:04.103 COLOR: Saving palette
+22:01:04.105 DB: Closing
+22:01:04.116 Closing logs
+22:01:04.119 PHONE: Free storage: 81,130,668,032
+22:01:04.119 PHONE: Free RAM    : 6,331,646
+22:01:04.119 Log closed

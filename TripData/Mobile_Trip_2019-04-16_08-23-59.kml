@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+ <name>Hybrid Assistant trip data 1969-12-31 18-00-00</name>
+  <open>1</open>
+  <description>Data generated with Hybrid Reporter version 1.80.0</description>
+  <Style id="yellowLineGreenPoly">
+   <LineStyle>
+    <color>7f00ffff</color>
+    <width>4</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>7f00ff00</color>
+   </PolyStyle>
+  </Style>
+  <Style id="blueLineBluePoly">
+   <LineStyle>
+    <color>7fff0000</color>
+    <width>4</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>7fff8000</color>
+   </PolyStyle>
+  </Style>
+  <Style id="redLineRedPoly">
+   <LineStyle>
+    <color>7f0000ff</color>
+    <width>4</width>
+   </LineStyle>
+   <PolyStyle>
+    <color>7f0000ff</color>
+   </PolyStyle>
+  </Style>
+  
+     <Placemark>
+      <name>Instant Fuel Consumption</name>
+      <visibility>1</visibility>
+      <description>l/100km</description>
+      <styleUrl>#redLineRedPoly</styleUrl>
+      <LineString>
+       <extrude>1</extrude>
+       <tessellate>1</tessellate>
+       <altitudeMode>relativeToGround</altitudeMode>
+       </LineString>
+      </Placemark>
+
+ </Document>
+</kml>
